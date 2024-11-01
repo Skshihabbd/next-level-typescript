@@ -1,2 +1,2 @@
 "use strict";
-var test = "testing";
+const test = "testing";

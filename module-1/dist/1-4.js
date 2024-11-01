@@ -1,24 +1,24 @@
 "use strict";
 // string type data
-var names = "shihab";
+let names = "shihab";
 // number type data
-var age = 27;
+let age = 27;
 // bolean type data
-var isTrue = true;
+let isTrue = true;
 // undefined
-var x = undefined;
+let x = undefined;
 // null
-var y = null;
+let y = null;
 // anytype
-var d;
+let d;
 d = 12;
 d = true;
 d = "string";
 // array type data
-var friends = ["bidyut", "sobuj"];
-var rollList = [1, 3];
+let friends = ["bidyut", "sobuj"];
+let rollList = [1, 3];
 rollList.push(6);
 // tuple type data
-var coordinates = [1, 5];
-var ageName = [50, "raihan", true];
+let coordinates = [1, 5];
+let ageName = [50, "raihan", true];
 ageName[1] = "any";

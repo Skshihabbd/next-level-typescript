@@ -15,4 +15,4 @@ const user: {
   fixedValue: "Programming Hero",
   onlyRead: "PH Hero",
 };
-user.onlyRead = "PH Hero"; //-->readonly property value not assignable
+// user.onlyRead = "PH Hero"; //-->readonly property value not assignable
